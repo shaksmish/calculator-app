@@ -11,4 +11,6 @@ Features:
 
 
 Demo Screenshot:
+
+
 <img width="577" alt="desktop-view-calculator" src="https://github.com/shaksmish/calculator-app/assets/12010865/776a5226-5a53-4b8a-8ff3-fcb30b734287">
